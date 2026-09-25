@@ -9,9 +9,9 @@ Developed by **Anushka Chauhan** for **COMPENG 2DX3 — Microprocessor Systems**
 This project uses a **VL53L1X Time-of-Flight sensor mounted on a 28BYJ-48 stepper motor**, an MSP432E401Y microcontroller, and MATLAB to map indoor environments. The stepper motor rotates the sensor through 360° to capture a vertical cross-section of the surrounding space. Combining scans collected at regular intervals along a straight path produces a 3D representation of the environment.
 
 To automate the scanning process, I added a **keypad, DC motor, and wheels**. The user enters the desired number of scans, and the system captures those scans while moving forward in a straight line with consistent spacing between scan positions.
+<img src="https://github.com/user-attachments/assets/d81035be-eb4b-4d0a-9176-26819b8d77ac"  alt="IMG_4635" width="400">
+<img src="https://github.com/user-attachments/assets/8046ec6a-062c-452f-9d57-6858cda698c0"  alt="IMG_4636" width="400">
 
-<img width="4032" height="3024" alt="IMG_4635" src="https://github.com/user-attachments/assets/d81035be-eb4b-4d0a-9176-26819b8d77ac" />
-<img width="4032" height="3024" alt="IMG_4636" src="https://github.com/user-attachments/assets/8046ec6a-062c-452f-9d57-6858cda698c0" />
 
 
 
@@ -30,9 +30,11 @@ To automate the scanning process, I added a **keypad, DC motor, and wheels**. Th
 
 
 
-<img width="2353" height="1710" alt="IMG_4572 2" src="https://github.com/user-attachments/assets/d2aeab3b-c69e-4eb8-92ba-ae2eb863e95f" />
-<img width="4032" height="3024" alt="IMG_4587" src="https://github.com/user-attachments/assets/edce8039-12ab-4350-a5ba-b20ee4ec0933" />
-<img width="4032" height="3024" alt="IMG_4640" src="https://github.com/user-attachments/assets/50f9db1e-cbf4-475d-9ff1-84037f15c3b5" />
+<img src="https://github.com/user-attachments/assets/d2aeab3b-c69e-4eb8-92ba-ae2eb863e95f" alt="IMG_4572 2" width="500">
+<img src="https://github.com/user-attachments/assets/edce8039-12ab-4350-a5ba-b20ee4ec0933" alt="IMG_4587"  width="500"  >
+
+
+<img width="500"  src="https://github.com/user-attachments/assets/50f9db1e-cbf4-475d-9ff1-84037f15c3b5" >
 
 
 
