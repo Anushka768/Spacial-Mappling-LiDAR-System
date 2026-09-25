@@ -10,6 +10,9 @@ This project uses a **VL53L1X Time-of-Flight sensor mounted on a 28BYJ-48 steppe
 
 To automate the scanning process, I added a **keypad, DC motor, and wheels**. The user enters the desired number of scans, and the system captures those scans while moving forward in a straight line with consistent spacing between scan positions.
 
+<img width="4032" height="3024" alt="IMG_4635" src="https://github.com/user-attachments/assets/d81035be-eb4b-4d0a-9176-26819b8d77ac" />
+<img width="4032" height="3024" alt="IMG_4636" src="https://github.com/user-attachments/assets/8046ec6a-062c-452f-9d57-6858cda698c0" />
+
 
 
 ## Key Features
@@ -24,6 +27,13 @@ To automate the scanning process, I added a **keypad, DC motor, and wheels**. Th
 - **Status feedback:** Onboard LEDs indicate initialization, measurement capture, rotation, and data transmission.
 
 ## Demo & Results
+
+
+
+<img width="2353" height="1710" alt="IMG_4572 2" src="https://github.com/user-attachments/assets/d2aeab3b-c69e-4eb8-92ba-ae2eb863e95f" />
+<img width="4032" height="3024" alt="IMG_4587" src="https://github.com/user-attachments/assets/edce8039-12ab-4350-a5ba-b20ee4ec0933" />
+<img width="4032" height="3024" alt="IMG_4640" src="https://github.com/user-attachments/assets/50f9db1e-cbf4-475d-9ff1-84037f15c3b5" />
+
 
 
 
