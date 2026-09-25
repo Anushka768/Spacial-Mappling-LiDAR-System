@@ -125,7 +125,7 @@ The MATLAB processing workflow receives and parses serial measurements, filters 
 
 ## Project Files
 
-The project report, embedded C firmware, and MATLAB visualization script will be added to this repository.
+The project report, embedded C firmware, and MATLAB visualization script has been added to this repository.
 
 ## Author
 
