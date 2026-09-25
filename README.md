@@ -28,7 +28,7 @@ To automate the scanning process, I added a **keypad, DC motor, and wheels**. Th
 
 ## Demo & Results
 
-
+To view the video demo: https://github.com/Anushka768/Spacial-Mappling-LiDAR-System/blob/main/LiDAR_Spatial_Mapping_Demo_Captioned.mp4 
 
 <img src="https://github.com/user-attachments/assets/d2aeab3b-c69e-4eb8-92ba-ae2eb863e95f" alt="IMG_4572 2" width="500">
 <img src="https://github.com/user-attachments/assets/edce8039-12ab-4350-a5ba-b20ee4ec0933" alt="IMG_4587"  width="500"  >
